@@ -87,7 +87,7 @@ Backend Video Demo: https://www.loom.com/share/01dc6e838026404aa67d1c6d0b6cabbe
 
 ## Netlify Website
 ![MagicQueue Netlify Pass Test Example](img/MagicQueue_Netlify_Pass_Test_Example.png)
-Webiste Link: https://disneyqueue.netlify.app/
+Webiste Link: https://magicqueue.netlify.app/
 
 
 # Conclusion
