@@ -1,4 +1,4 @@
-# 2026-ml-zoomcamp-midterm-draft
+# MagicQueue
 ![Walt Disney Castle, 2019. Photo credit: Annaliese Tech](img/Walt_Disney_Castle_2019.jpeg)
 Walt Disney Castle, 2019. Photo credit: Annaliese Tech
 
